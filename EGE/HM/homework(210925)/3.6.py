@@ -1,8 +1,6 @@
 x = int(input())
 
-if x < 100:
-    print("yes")
-elif x > -100:
+if 100<=x<=999 or -999<=x<=-100:
     print("yes")
 else:
     print("no")

@@ -1,6 +1,4 @@
-x= int(input())
+str = "Hello"
 
-if x < 100 and x > -100:
-    print("no")
-else:
-    print("yes")
+for i in range(len(str)):
+    print(i, str[i])
