@@ -1,4 +1,5 @@
-str = "Hello"
-
-for i in range(len(str)):
-    print(i, str[i])
+x=5
+def f():
+ x = 1
+ print(x)
+f() # 1

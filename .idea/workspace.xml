@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a07308a-505a-4d8f-9ca3-98e6e8126e5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/6.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)/7.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/1.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/1.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/1.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/1.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/2.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/2.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/2.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/2.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(210925)/3.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(210925)/3.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/4.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/4.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/4.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/4.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/4.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/4.14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/4.16.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/4.16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/4.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/4.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/4.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/4.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/4.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/4.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.16.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.18.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/HM/homework(280925)/5.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/HM/september(2025y)/homework(280925)/5.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/3.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/3.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/3.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/3.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/4.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/4.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/4.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/4.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/4.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/4.15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/4.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/4.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/4.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/4.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/4.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/4.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/5.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/5.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/5.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/5.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/5.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/5.15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/5.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/5.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/5.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/5.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/5.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/5.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/Lessons/les(280925)/5.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/Lessons/september(2025y)/les(280925)/5.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yatame21&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yatame21/EGE-TRAINING.git&quot;,
+    &quot;accountId&quot;: &quot;eb8c1e8b-fce4-4b0d-908c-dde3c87a770a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="33JfzNBSdh1SHdA9aKkN2lnzCUh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.3.6.executor": "Run",
+    "Python.3.7.executor": "Run",
+    "Python.3.9.executor": "Run",
+    "Python.4.1.executor": "Run",
+    "Python.4.11.executor": "Run",
+    "Python.4.13.executor": "Run",
+    "Python.4.15.executor": "Run",
+    "Python.4.3.executor": "Run",
+    "Python.4.5.executor": "Run",
+    "Python.4.7.executor": "Run",
+    "Python.4.9.executor": "Run",
+    "Python.5.1.executor": "Run",
+    "Python.5.11.executor": "Run",
+    "Python.5.13.executor": "Run",
+    "Python.5.14.executor": "Run",
+    "Python.5.15.executor": "Run",
+    "Python.5.3.executor": "Run",
+    "Python.5.5.executor": "Run",
+    "Python.5.7.executor": "Run",
+    "Python.5.9.executor": "Run",
+    "Python.6.1.executor": "Run",
+    "Python.6.11.executor": "Run",
+    "Python.6.13.executor": "Run",
+    "Python.6.15.executor": "Run",
+    "Python.6.17.executor": "Run",
+    "Python.6.19.executor": "Run",
+    "Python.6.21.executor": "Run",
+    "Python.6.23.executor": "Run",
+    "Python.6.25.executor": "Run",
+    "Python.6.27.executor": "Run",
+    "Python.6.29.executor": "Run",
+    "Python.6.3.executor": "Run",
+    "Python.6.5.executor": "Run",
+    "Python.6.7.executor": "Run",
+    "Python.6.9.executor": "Run",
+    "Python.7.1.executor": "Run",
+    "Python.7.3.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\piton\EGE-TRAINING\EGE\HM\september(2025y)" />
+      <recent name="C:\piton\EGE-TRAINING\EGE\Lessons\october" />
+      <recent name="C:\piton\EGE-TRAINING\EGE\Lessons\september" />
+      <recent name="C:\piton\EGE-TRAINING\EGE\HM" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a07308a-505a-4d8f-9ca3-98e6e8126e5a" name="Changes" comment="" />
+      <created>1759040357247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759040357247</updated>
+      <workItem from="1759040358471" duration="223000" />
+      <workItem from="1759040669764" duration="307000" />
+      <workItem from="1759045536332" duration="11088000" />
+      <workItem from="1759515797615" duration="76000" />
+      <workItem from="1759515879252" duration="7000" />
+      <workItem from="1759650335328" duration="9860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_15.coverage" NAME="4.15 Coverage Results" MODIFIED="1759051180251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1759653356301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_9.coverage" NAME="6.9 Coverage Results" MODIFIED="1759655013499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_5.coverage" NAME="5.5 Coverage Results" MODIFIED="1759054313538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_1.coverage" NAME="7.1 Coverage Results" MODIFIED="1759661535756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_27.coverage" NAME="6.27 Coverage Results" MODIFIED="1759660173092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_15.coverage" NAME="6.15 Coverage Results" MODIFIED="1759657996943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_1.coverage" NAME="4.1 Coverage Results" MODIFIED="1759048465072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_21.coverage" NAME="6.21 Coverage Results" MODIFIED="1759659307589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1759046550617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/homework(210925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_7.coverage" NAME="4.7 Coverage Results" MODIFIED="1759049637209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$3_9.coverage" NAME="3.9 Coverage Results" MODIFIED="1759047314945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_13.coverage" NAME="6.13 Coverage Results" MODIFIED="1759657266828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_29.coverage" NAME="6.29 Coverage Results" MODIFIED="1759660314780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1759661970501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_9.coverage" NAME="4.9 Coverage Results" MODIFIED="1759050284095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_7.coverage" NAME="5.7 Coverage Results" MODIFIED="1759054480495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_5.coverage" NAME="6.5 Coverage Results" MODIFIED="1759654079653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$main.coverage" NAME="main Coverage Results" MODIFIED="1759661159635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_15.coverage" NAME="5.15 Coverage Results" MODIFIED="1759057079960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1759048859372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_25.coverage" NAME="6.25 Coverage Results" MODIFIED="1759659970830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1759052852934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_17.coverage" NAME="6.17 Coverage Results" MODIFIED="1759658294094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_7.coverage" NAME="6.7 Coverage Results" MODIFIED="1759654474159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_13.coverage" NAME="4.13 Coverage Results" MODIFIED="1759050669226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_9.coverage" NAME="5.9 Coverage Results" MODIFIED="1759054701991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_13.coverage" NAME="5.13 Coverage Results" MODIFIED="1759056793060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_5.coverage" NAME="4.5 Coverage Results" MODIFIED="1759049153622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$3_7.coverage" NAME="3.7 Coverage Results" MODIFIED="1759047103592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1759053513371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1759652807922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_23.coverage" NAME="6.23 Coverage Results" MODIFIED="1759659487649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_19.coverage" NAME="6.19 Coverage Results" MODIFIED="1759659054043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_14.coverage" NAME="5.14 Coverage Results" MODIFIED="1759652080319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/homework(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_11.coverage" NAME="4.11 Coverage Results" MODIFIED="1759050510266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_11.coverage" NAME="6.11 Coverage Results" MODIFIED="1759655353784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_11.coverage" NAME="5.11 Coverage Results" MODIFIED="1759055984310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+  </component>
+</project>
