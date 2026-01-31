@@ -1,22 +1,17 @@
+# здесь условие в коментах
+from itertools import product,permutations
 
+def f(x, y, z, w): # здесь пишешь все буквы которые есть в условии
+    return ((y <= x) == (x <= w)) and (z or x) # тут пишешь условие (¬ делаешь в скобки, пример - (not y) )
 
+for x1,x2,x3,x4,x5,x6 in product([0,1], repeat=6): # тут пишешь сколько всего иксов (repeat=?)
 
-def f(a,b,m):
-    if a+b >= 77: return m % 2 == 0
-    if m == 0:return 0
-    h = [f(a+1,b,m-1), f(a,b+1,m-1), f(a*2,b,m-1), f(a,b*2,m-1)]
-    return any(h) if m%2 != 0 else any(h)
-
-print([s for s in range(1,70)])
-def f(s,m):
-    if s <= 16: return m%2 == 0
-    if m == 0:return 0
-    h = [f(s-3,m-1), f(s-8,m-1), f(s//3,m-1)]
-    return any(h) if m % 2 != 0 else all(h)
-
-print([s for s in range(17,100) if f(s,2)])
-print([s for s in range(17,100) if not f(s,1) and f(s,3)])
-print([s for s in range(17,100) if not f(s,2) and f(s,4)])
-
-
-# pr
+    t = ( # в табице пишешь на месте пропусков иксы по типу x1,x2.... (F тоже пишешь)
+        (0,x1,x2,0,1),
+        (0,0,0,x3,1),
+        (x4,x5,0,x6,1)
+    )
+    if len(t) == len(set(t)):
+        for p in permutations('xyzw', r=4): # тут писать сколько всего букв (r=?)
+            if all(f(**dict(zip(p, line))) == line[-1] for line in t):
+                print(*p)
