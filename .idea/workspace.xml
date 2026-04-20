@@ -5,44 +5,545 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a07308a-505a-4d8f-9ca3-98e6e8126e5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_11/11_19360(9).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_11/11_19877(8).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_11/11_21897(4).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_11/11_23270(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_11/11_23749(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_11/documentation/Задания-11 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_14/documentation/Задания-14.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_17/17_17558(16).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_17/17_17750(15).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_17/17_17873(14).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_17/17_18045(13).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_17/documentation/Задания-17.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_4/documentation/Задания-4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/7_13080(30).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/7_17670(12).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/7_17747(28).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/7_19556(25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/7_21702(6).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/7_23191(3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/documentation/Задания-7.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/documentation/Формулы объема графических и звуковых файлов для задания 7 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_16319(12).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_17549(11).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_18484(18).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_19240(7).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_20857(16).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_20898(24).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_21894(22).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_23192(4).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/8_23367(21).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/documentation/Задания-8.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/documentation/Модуль itertools.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/numeration(5).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EGE/.idea/EGE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EGE/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EGE/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EGE/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EGE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/_virtualenv.pth" beforeDir="false" afterPath="$PROJECT_DIR$/course_step/input_output/arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/_virtualenv.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_step/input_output/prosto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.dist-info/AUTHORS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/course_step/input_output/sep_end.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/main/fe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip-23.2.1.virtualenv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/__pip-runner__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/__pip-runner__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/autocompletion.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/autocompletion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/base_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/cmdoptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/command_context.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/command_context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/main_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/progress_bars.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/progress_bars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/req_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/req_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/spinners.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/cli/spinners.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/completion.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/completion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/hash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/help.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/inspect.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/inspect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/installed.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/installed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/sdist.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/sdist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/distributions/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/index/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/index/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/index/collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/index/collector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/index/package_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/index/package_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/index/sources.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/index/sources.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/locations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/locations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/locations/_distutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/locations/_distutils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/locations/_sysconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/locations/_sysconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/locations/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/locations/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/importlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/importlib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/importlib/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/importlib/_compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/importlib/_dists.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/importlib/_dists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/importlib/_envs.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/importlib/_envs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/pkg_resources.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/metadata/pkg_resources.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/candidate.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/candidate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/direct_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/direct_url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/format_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/format_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/installation_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/installation_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/scheme.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/scheme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/search_scope.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/search_scope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/selection_prefs.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/selection_prefs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/target_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/target_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/models/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/lazy_wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/lazy_wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/xmlrpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/network/xmlrpc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/build_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/build_tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/metadata_editable.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/metadata_editable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/metadata_legacy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/wheel_editable.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/wheel_editable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/build/wheel_legacy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/install/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/install/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/install/editable_legacy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/install/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/install/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/pyproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/pyproject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/req_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/legacy/resolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/legacy/resolver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/candidates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/provider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/reporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/reporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/resolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/resolution/resolvelib/resolver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/self_outdated_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/self_outdated_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/_jaraco_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/_jaraco_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/compatibility_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/compatibility_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/deprecation.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/direct_url_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/direct_url_helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/egg_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/egg_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/entrypoints.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/entrypoints.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/filesystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/filetypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/filetypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/glibc.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/inject_securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/packaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/subprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/subprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/temp_dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/unpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/unpacking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/virtualenv.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/virtualenv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/utils/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/bazaar.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/mercurial.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/vcs/versioncontrol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/wheel_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_internal/wheel_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/certifi/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/certifi/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/codingstatemachinedict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/johabfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/johabprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/langrussianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/macromanprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/metadata/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/metadata/languages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/resultdict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/utf1632prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/tests/ansi_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/tests/ansitowin32_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/tests/initialise_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/tests/isatty_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/tests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/tests/winterm_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/scripts.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distro/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distro/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distro/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distro/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/distro/distro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/codec.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/idnadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/intranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/package_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/uts46data.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/msgpack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/msgpack/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/msgpack/ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/msgpack/ext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/msgpack/fallback.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/_manylinux.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/_manylinux.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/_musllinux.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/_musllinux.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/android.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/android.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/macos.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/macos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/unix.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/unix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/platformdirs/windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/cmdline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/filters/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/filters/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/_mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/bbcode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/groff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/html.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/irc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/latex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/other.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/pangomarkup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/rtf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/svg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/terminal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/formatters/terminal256.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/lexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/lexer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/lexers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/lexers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/lexers/_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/lexers/_mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/lexers/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/lexers/python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/modeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/modeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/plugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/plugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/regexopt.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/regexopt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/scanner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/sphinxext.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/sphinxext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/style.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/style.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/styles/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/styles/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/token.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/unistring.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/unistring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pygments/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/actions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/diagram/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/unicode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyparsing/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_impl.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_impl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/__version__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/adapters.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/certs.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/help.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/help.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/hooks.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/packages.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/status_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/structures.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/compat/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/compat/collections_abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/providers.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/providers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/reporters.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/reporters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/resolvers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/structs.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/resolvelib/structs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_cell_widths.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_cell_widths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_emoji_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_emoji_replace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_export_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_export_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_extension.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_extension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_fileno.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_fileno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_inspect.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_inspect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_log_render.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_log_render.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_null_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_null_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_palettes.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_palettes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_pick.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_pick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_ratio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_spinners.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_spinners.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_win32_console.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_win32_console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_wrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/_wrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/abc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/align.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/align.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/ansi.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/ansi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/box.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/cells.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/cells.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/color.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/color.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/color_triplet.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/color_triplet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/columns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/constrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/constrain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/containers.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/containers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/control.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/default_styles.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/default_styles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/diagnose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/emoji.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/emoji.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/file_proxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/file_proxy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/filesize.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/filesize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/highlighter.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/highlighter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/json.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/jupyter.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/jupyter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/layout.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/layout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/live.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/live.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/live_render.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/live_render.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/markup.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/markup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/measure.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/measure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/padding.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/padding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/pager.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/pager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/panel.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/panel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/pretty.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/pretty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/progress.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/progress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/progress_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/progress_bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/prompt.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/prompt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/protocol.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/protocol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/region.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/region.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/repr.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/repr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/screen.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/screen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/segment.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/segment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/spinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/spinner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/status.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/style.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/style.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/styled.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/styled.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/syntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/syntax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/table.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/theme.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/theme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/themes.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/themes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/traceback.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/traceback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/rich/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/_asyncio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/after.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/before.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/before_sleep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/nap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/stop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/tornadoweb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tenacity/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tomli/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tomli/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tomli/_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tomli/_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tomli/_re.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tomli/_re.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tomli/_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/tomli/_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/typing_extensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/weakref_finalize.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/weakref_finalize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/proxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/proxy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/vendor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/vendor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/py.typed" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Lib/site-packages/pip/py.typed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_asyncio.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_ctypes_test.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_elementtree.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_queue.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_sqlite3.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testbuffer.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testclinic.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testclinic_limited.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testconsole.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testimportmultiple.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testinternalcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testlimitedcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testmultiphase.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_testsinglephase.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_tkinter.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_uuid.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_wmi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/_zoneinfo.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/activate.nu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/activate_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/deactivate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/deactivate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/libcrypto-3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/libffi-8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/libssl-3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/pip-3.13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/pip3.13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/pydoc.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/python.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/python313.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/pythonw.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/Scripts/pythonw.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/tcl86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/tk86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/vcruntime140_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/winsound.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/Scripts/zlib1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/.venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/.venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/do(7).py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_7/do(7).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,130 +584,142 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.11_19360(9).executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_19877(8).executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_21897(4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_23270(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_14344(29).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_16261(25).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_18265(28).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_18580(22).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_19484(4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_19705(13).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_20284(26).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_20960(11).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_21413(18).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_21900(8).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_23198(7).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_23560(6).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_23753(16).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17-23757(1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_17558(16).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_17750(15).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_17873(14).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_18045(13).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_18582(11).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_18582.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_19249(10).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_20963(9).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_21416(8).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_21712(7).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_21903(6).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_23276(4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_23563(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.27.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.4(2 variant).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_13080(30).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_16373(14).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_17670(12).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_17747(28).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_18309(26).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_18601(5).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_19368(4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_19556(25).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_20482(22).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_20804(9).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_20953(8).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_21702(6).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_22346(31).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_23191(3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_23266(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_23745(21).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_17549(11).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_18120(9).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_18484(18).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_19240(7).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_20857(16).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_20898(24).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_21703(5).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_21894(22).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_23367(21).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_23554(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_23746(1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.example(192021).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.11_19360(9).executor": "Run",
+    "Python.11_19877(8).executor": "Run",
+    "Python.11_21897(4).executor": "Run",
+    "Python.11_23270(2).executor": "Run",
+    "Python.14_14344(29).executor": "Run",
+    "Python.14_16261(25).executor": "Run",
+    "Python.14_18265(28).executor": "Run",
+    "Python.14_18580(22).executor": "Run",
+    "Python.14_19484(4).executor": "Run",
+    "Python.14_19705(13).executor": "Run",
+    "Python.14_20284(26).executor": "Run",
+    "Python.14_20960(11).executor": "Run",
+    "Python.14_21413(18).executor": "Run",
+    "Python.14_21900(8).executor": "Run",
+    "Python.14_23198(7).executor": "Run",
+    "Python.14_23560(6).executor": "Run",
+    "Python.14_23753(16).executor": "Run",
+    "Python.17-23757(1).executor": "Run",
+    "Python.17_17558(16).executor": "Run",
+    "Python.17_17750(15).executor": "Run",
+    "Python.17_17873(14).executor": "Run",
+    "Python.17_18045(13).executor": "Run",
+    "Python.17_18582(11).executor": "Run",
+    "Python.17_18582.executor": "Run",
+    "Python.17_19249(10).executor": "Run",
+    "Python.17_20963(9).executor": "Run",
+    "Python.17_21416(8).executor": "Run",
+    "Python.17_21712(7).executor": "Run",
+    "Python.17_21903(6).executor": "Run",
+    "Python.17_23276(4).executor": "Run",
+    "Python.17_23563(2).executor": "Run",
+    "Python.3.6.executor": "Run",
+    "Python.3.7.executor": "Run",
+    "Python.3.9.executor": "Run",
+    "Python.4.1.executor": "Run",
+    "Python.4.11.executor": "Run",
+    "Python.4.13.executor": "Run",
+    "Python.4.15.executor": "Run",
+    "Python.4.3.executor": "Run",
+    "Python.4.5.executor": "Run",
+    "Python.4.7.executor": "Run",
+    "Python.4.9.executor": "Run",
+    "Python.5.1.executor": "Run",
+    "Python.5.11.executor": "Run",
+    "Python.5.13.executor": "Run",
+    "Python.5.14.executor": "Run",
+    "Python.5.15.executor": "Run",
+    "Python.5.3.executor": "Run",
+    "Python.5.5.executor": "Run",
+    "Python.5.7.executor": "Run",
+    "Python.5.9.executor": "Run",
+    "Python.6.1.executor": "Run",
+    "Python.6.10.executor": "Run",
+    "Python.6.11.executor": "Run",
+    "Python.6.13.executor": "Run",
+    "Python.6.14.executor": "Run",
+    "Python.6.15.executor": "Run",
+    "Python.6.16.executor": "Run",
+    "Python.6.17.executor": "Run",
+    "Python.6.19.executor": "Run",
+    "Python.6.2.executor": "Run",
+    "Python.6.21.executor": "Run",
+    "Python.6.23.executor": "Run",
+    "Python.6.25.executor": "Run",
+    "Python.6.27.executor": "Run",
+    "Python.6.29.executor": "Run",
+    "Python.6.3.executor": "Run",
+    "Python.6.4.executor": "Run",
+    "Python.6.5.executor": "Run",
+    "Python.6.6.executor": "Run",
+    "Python.6.7.executor": "Run",
+    "Python.6.8.executor": "Run",
+    "Python.6.9.executor": "Run",
+    "Python.7.1.executor": "Run",
+    "Python.7.11.executor": "Run",
+    "Python.7.13.executor": "Run",
+    "Python.7.3.executor": "Run",
+    "Python.7.4(2 variant).executor": "Run",
+    "Python.7.5.executor": "Run",
+    "Python.7.7.executor": "Run",
+    "Python.7.9.executor": "Run",
+    "Python.7_13080(30).executor": "Run",
+    "Python.7_16373(14).executor": "Run",
+    "Python.7_17670(12).executor": "Run",
+    "Python.7_17747(28).executor": "Run",
+    "Python.7_18309(26).executor": "Run",
+    "Python.7_18601(5).executor": "Run",
+    "Python.7_19368(4).executor": "Run",
+    "Python.7_19556(25).executor": "Run",
+    "Python.7_20482(22).executor": "Run",
+    "Python.7_20804(9).executor": "Run",
+    "Python.7_20953(8).executor": "Run",
+    "Python.7_21702(6).executor": "Run",
+    "Python.7_22346(31).executor": "Run",
+    "Python.7_23191(3).executor": "Run",
+    "Python.7_23266(2).executor": "Run",
+    "Python.7_23745(21).executor": "Run",
+    "Python.8_17549(11).executor": "Run",
+    "Python.8_18120(9).executor": "Run",
+    "Python.8_18484(18).executor": "Run",
+    "Python.8_19240(7).executor": "Run",
+    "Python.8_20857(16).executor": "Run",
+    "Python.8_20898(24).executor": "Run",
+    "Python.8_21703(5).executor": "Run",
+    "Python.8_21894(22).executor": "Run",
+    "Python.8_23367(21).executor": "Run",
+    "Python.8_23554(2).executor": "Run",
+    "Python.8_23746(1).executor": "Run",
+    "Python.arithmetic.executor": "Run",
+    "Python.do(192021).executor": "Run",
+    "Python.do(7).executor": "Run",
+    "Python.example(192021).executor": "Run",
+    "Python.fe.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.prosto.executor": "Run",
+    "Python.sdkjfs.executor": "Run",
+    "Python.sep_end.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/piton/Uniform-State-Exam",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\piton\EGE-TRAINING\EGE\EgeNumbers\num_11\documentation" />
@@ -219,8 +732,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -261,6 +773,15 @@
       <workItem from="1763061698955" duration="125000" />
       <workItem from="1763061835726" duration="12000" />
       <workItem from="1764125530626" duration="1602000" />
+      <workItem from="1775156010806" duration="132000" />
+      <workItem from="1775221529321" duration="2243000" />
+      <workItem from="1775251802273" duration="240000" />
+      <workItem from="1776617813297" duration="3955000" />
+      <workItem from="1776705268720" duration="506000" />
+      <workItem from="1776706012427" duration="237000" />
+      <workItem from="1776706259532" duration="114000" />
+      <workItem from="1776706386715" duration="5000" />
+      <workItem from="1776707655570" duration="7661000" />
     </task>
     <servers />
   </component>
@@ -268,115 +789,123 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_15.coverage" NAME="4.15 Coverage Results" MODIFIED="1759051180251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_17750_15_.coverage" NAME="17_17750(15) Coverage Results" MODIFIED="1762670635204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_18582_11_.coverage" NAME="17_18582(11) Coverage Results" MODIFIED="1762035266128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_23276_4_.coverage" NAME="17_23276(4) Coverage Results" MODIFIED="1760263285770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_15.coverage" NAME="6.15 Coverage Results" MODIFIED="1759657996943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_23746_1_.coverage" NAME="8_23746(1) Coverage Results" MODIFIED="1762313926807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_8.coverage" NAME="6.8 Coverage Results" MODIFIED="1760011571576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_18601_5_.coverage" NAME="7_18601(5) Coverage Results" MODIFIED="1762071817918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_2.coverage" NAME="6.2 Coverage Results" MODIFIED="1760009577120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_18265_28_.coverage" NAME="14_18265(28) Coverage Results" MODIFIED="1762037798417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_17549_11_.coverage" NAME="8_17549(11) Coverage Results" MODIFIED="1762670143984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_23191_3_.coverage" NAME="7_23191(3) Coverage Results" MODIFIED="1762675299247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_15.coverage" NAME="5.15 Coverage Results" MODIFIED="1759057079960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_17747_28_.coverage" NAME="7_17747(28) Coverage Results" MODIFIED="1762677495128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_18045_13_.coverage" NAME="17_18045(13) Coverage Results" MODIFIED="1762670393687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_25.coverage" NAME="6.25 Coverage Results" MODIFIED="1759659970830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_7.coverage" NAME="6.7 Coverage Results" MODIFIED="1759654474159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_20482_22_.coverage" NAME="7_20482(22) Coverage Results" MODIFIED="1762077810687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_5.coverage" NAME="4.5 Coverage Results" MODIFIED="1759049153622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_21703_5_.coverage" NAME="8_21703(5) Coverage Results" MODIFIED="1762081422536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1759652807922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_21894_22_.coverage" NAME="8_21894(22) Coverage Results" MODIFIED="1762681695384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_14.coverage" NAME="5.14 Coverage Results" MODIFIED="1759652080319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/homework(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_21416_8_.coverage" NAME="17_21416(8) Coverage Results" MODIFIED="1762033187105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_14.coverage" NAME="6.14 Coverage Results" MODIFIED="1760255869065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_23753_16_.coverage" NAME="14_23753(16) Coverage Results" MODIFIED="1761469049996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_7.coverage" NAME="7.7 Coverage Results" MODIFIED="1760258627224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1759653356301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_5.coverage" NAME="5.5 Coverage Results" MODIFIED="1759054313538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_19249_10_.coverage" NAME="17_19249(10) Coverage Results" MODIFIED="1762034172770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_18582.coverage" NAME="17_18582 Coverage Results" MODIFIED="1762034404504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_1.coverage" NAME="4.1 Coverage Results" MODIFIED="1759048465072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1759046550617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/homework(210925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$11_23270_2_.coverage" NAME="11_23270(2) Coverage Results" MODIFIED="1762684103734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_11" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_20857_16_.coverage" NAME="8_20857(16) Coverage Results" MODIFIED="1762679161512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_14344_29_.coverage" NAME="14_14344(29) Coverage Results" MODIFIED="1761471675369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_13.coverage" NAME="4.13 Coverage Results" MODIFIED="1759050669226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_21900_8_.coverage" NAME="14_21900(8) Coverage Results" MODIFIED="1761450549926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_13.coverage" NAME="7.13 Coverage Results" MODIFIED="1760258983480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_13.coverage" NAME="5.13 Coverage Results" MODIFIED="1759056793060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$8_23554_2_.coverage" NAME="8_23554(2) Coverage Results" MODIFIED="1762080819643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_13.coverage" NAME="6.13 Coverage Results" MODIFIED="1759657266828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_19556_25_.coverage" NAME="7_19556(25) Coverage Results" MODIFIED="1762677225081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_19249_10_.coverage" NAME="17_19249(10) Coverage Results" MODIFIED="1762034172770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_21894_22_.coverage" NAME="8_21894(22) Coverage Results" MODIFIED="1762681695384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_19.coverage" NAME="6.19 Coverage Results" MODIFIED="1759659054043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$do_7_.coverage" NAME="do(7) Coverage Results" MODIFIED="1775222341725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_17558_16_.coverage" NAME="17_17558(16) Coverage Results" MODIFIED="1762670827351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_21416_8_.coverage" NAME="17_21416(8) Coverage Results" MODIFIED="1762033187105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_5.coverage" NAME="6.5 Coverage Results" MODIFIED="1759654079653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$fe.coverage" NAME="fe Coverage Results" MODIFIED="1776712648985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1759661970501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_7.coverage" NAME="5.7 Coverage Results" MODIFIED="1759054480495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_19368_4_.coverage" NAME="7_19368(4) Coverage Results" MODIFIED="1761476414029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_9.coverage" NAME="4.9 Coverage Results" MODIFIED="1759050284095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_18582.coverage" NAME="17_18582 Coverage Results" MODIFIED="1762034404504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_20284_26_.coverage" NAME="14_20284(26) Coverage Results" MODIFIED="1761470315635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_9.coverage" NAME="7.9 Coverage Results" MODIFIED="1760258786000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1759048859372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$sep_end.coverage" NAME="sep_end Coverage Results" MODIFIED="1776618130661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_step/input_output" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_17747_28_.coverage" NAME="7_17747(28) Coverage Results" MODIFIED="1762677495128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_20953_8_.coverage" NAME="7_20953(8) Coverage Results" MODIFIED="1762072139030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_4.coverage" NAME="6.4 Coverage Results" MODIFIED="1760010338463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_29.coverage" NAME="6.29 Coverage Results" MODIFIED="1759660314780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_9.coverage" NAME="6.9 Coverage Results" MODIFIED="1759655013499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_21702_6_.coverage" NAME="7_21702(6) Coverage Results" MODIFIED="1762676037329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_17549_11_.coverage" NAME="8_17549(11) Coverage Results" MODIFIED="1762670143984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$11_19360_9_.coverage" NAME="11_19360(9) Coverage Results" MODIFIED="1762686238594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_11" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_18265_28_.coverage" NAME="14_18265(28) Coverage Results" MODIFIED="1762037798417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_20482_22_.coverage" NAME="7_20482(22) Coverage Results" MODIFIED="1762077810687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_7.coverage" NAME="4.7 Coverage Results" MODIFIED="1759049637209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_23198_7_.coverage" NAME="14_23198(7) Coverage Results" MODIFIED="1761450257435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_23753_16_.coverage" NAME="14_23753(16) Coverage Results" MODIFIED="1761469049996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$prosto.coverage" NAME="prosto Coverage Results" MODIFIED="1776622046396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_step/input_output" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_5.coverage" NAME="5.5 Coverage Results" MODIFIED="1759054313538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_20898_24_.coverage" NAME="8_20898(24) Coverage Results" MODIFIED="1762682694064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_11.coverage" NAME="4.11 Coverage Results" MODIFIED="1759050510266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_11.coverage" NAME="5.11 Coverage Results" MODIFIED="1759055984310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_14.coverage" NAME="5.14 Coverage Results" MODIFIED="1759652080319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/homework(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_14.coverage" NAME="6.14 Coverage Results" MODIFIED="1760255869065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_18601_5_.coverage" NAME="7_18601(5) Coverage Results" MODIFIED="1762071817918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_22346_31_.coverage" NAME="7_22346(31) Coverage Results" MODIFIED="1762079112777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_11.coverage" NAME="7.11 Coverage Results" MODIFIED="1760258926691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_19705_13_.coverage" NAME="14_19705(13) Coverage Results" MODIFIED="1762065492527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_11.coverage" NAME="6.11 Coverage Results" MODIFIED="1759655353784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_23191_3_.coverage" NAME="7_23191(3) Coverage Results" MODIFIED="1762675299247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_19484_4_.coverage" NAME="14_19484(4) Coverage Results" MODIFIED="1761449243638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_2.coverage" NAME="6.2 Coverage Results" MODIFIED="1760009577120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_17750_15_.coverage" NAME="17_17750(15) Coverage Results" MODIFIED="1762670635204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_7.coverage" NAME="6.7 Coverage Results" MODIFIED="1759654474159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_21703_5_.coverage" NAME="8_21703(5) Coverage Results" MODIFIED="1762081422536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_27.coverage" NAME="6.27 Coverage Results" MODIFIED="1759660173092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_7.coverage" NAME="7.7 Coverage Results" MODIFIED="1760258627224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_5.coverage" NAME="4.5 Coverage Results" MODIFIED="1759049153622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$main.coverage" NAME="main Coverage Results" MODIFIED="1764127068318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_25.coverage" NAME="6.25 Coverage Results" MODIFIED="1759659970830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_23266_2_.coverage" NAME="7_23266(2) Coverage Results" MODIFIED="1762071349693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_4_2_variant_.coverage" NAME="7.4(2 variant) Coverage Results" MODIFIED="1760256508582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_21903_6_.coverage" NAME="17_21903(6) Coverage Results" MODIFIED="1761466145703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_16.coverage" NAME="6.16 Coverage Results" MODIFIED="1760256040738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$6_10.coverage" NAME="6.10 Coverage Results" MODIFIED="1760011981271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$14_18580_22_.coverage" NAME="14_18580(22) Coverage Results" MODIFIED="1762036997587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_17670_12_.coverage" NAME="7_17670(12) Coverage Results" MODIFIED="1762676745474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_19484_4_.coverage" NAME="14_19484(4) Coverage Results" MODIFIED="1761449243638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_19368_4_.coverage" NAME="7_19368(4) Coverage Results" MODIFIED="1761476414029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1759048859372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_5.coverage" NAME="7.5 Coverage Results" MODIFIED="1760258356372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_17.coverage" NAME="6.17 Coverage Results" MODIFIED="1759658294094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_18120_9_.coverage" NAME="8_18120(9) Coverage Results" MODIFIED="1762082096739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_21413_18_.coverage" NAME="14_21413(18) Coverage Results" MODIFIED="1761469055821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_21702_6_.coverage" NAME="7_21702(6) Coverage Results" MODIFIED="1762676037329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1759053513371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_23.coverage" NAME="6.23 Coverage Results" MODIFIED="1759659487649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$11_19360_9_.coverage" NAME="11_19360(9) Coverage Results" MODIFIED="1762686238594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_11" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_9.coverage" NAME="5.9 Coverage Results" MODIFIED="1759054701991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_13080_30_.coverage" NAME="7_13080(30) Coverage Results" MODIFIED="1762678114078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_23563_2_.coverage" NAME="17_23563(2) Coverage Results" MODIFIED="1760262482903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$11_21897_4_.coverage" NAME="11_21897(4) Coverage Results" MODIFIED="1762684615450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_11" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_17873_14_.coverage" NAME="17_17873(14) Coverage Results" MODIFIED="1762670506896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_27.coverage" NAME="6.27 Coverage Results" MODIFIED="1759660173092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_22346_31_.coverage" NAME="7_22346(31) Coverage Results" MODIFIED="1762079112777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_21.coverage" NAME="6.21 Coverage Results" MODIFIED="1759659307589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_20960_11_.coverage" NAME="14_20960(11) Coverage Results" MODIFIED="1761468104094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_16373_14_.coverage" NAME="7_16373(14) Coverage Results" MODIFIED="1762073022486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_20804_9_.coverage" NAME="7_20804(9) Coverage Results" MODIFIED="1762072525742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_8.coverage" NAME="6.8 Coverage Results" MODIFIED="1760011571576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$11_23270_2_.coverage" NAME="11_23270(2) Coverage Results" MODIFIED="1762684103734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_11" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$example_192021_.coverage" NAME="example(192021) Coverage Results" MODIFIED="1762801963753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_192012" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1759661970501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$11_19877_8_.coverage" NAME="11_19877(8) Coverage Results" MODIFIED="1762685728712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_11" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_18120_9_.coverage" NAME="8_18120(9) Coverage Results" MODIFIED="1762082096739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$arithmetic.coverage" NAME="arithmetic Coverage Results" MODIFIED="1776618646952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_step/input_output" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$do_192021_.coverage" NAME="do(192021) Coverage Results" MODIFIED="1775156032762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_192012" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_5.coverage" NAME="7.5 Coverage Results" MODIFIED="1760258356372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_21712_7_.coverage" NAME="17_21712(7) Coverage Results" MODIFIED="1761466891851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_16261_25_.coverage" NAME="14_16261(25) Coverage Results" MODIFIED="1761469653134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$17_20963_9_.coverage" NAME="17_20963(9) Coverage Results" MODIFIED="1760264149391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_17670_12_.coverage" NAME="7_17670(12) Coverage Results" MODIFIED="1762676745474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$8_23367_21_.coverage" NAME="8_23367(21) Coverage Results" MODIFIED="1762681307765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$7_23745_21_.coverage" NAME="7_23745(21) Coverage Results" MODIFIED="1762077221410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_21712_7_.coverage" NAME="17_21712(7) Coverage Results" MODIFIED="1761466891851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_9.coverage" NAME="4.9 Coverage Results" MODIFIED="1759050284095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_7.coverage" NAME="5.7 Coverage Results" MODIFIED="1759054480495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_5.coverage" NAME="6.5 Coverage Results" MODIFIED="1759654079653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_19240_7_.coverage" NAME="8_19240(7) Coverage Results" MODIFIED="1762669895329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1759052852934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_13.coverage" NAME="4.13 Coverage Results" MODIFIED="1759050669226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_13.coverage" NAME="5.13 Coverage Results" MODIFIED="1759056793060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_23198_7_.coverage" NAME="14_23198(7) Coverage Results" MODIFIED="1761450257435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_17558_16_.coverage" NAME="17_17558(16) Coverage Results" MODIFIED="1762670827351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_20898_24_.coverage" NAME="8_20898(24) Coverage Results" MODIFIED="1762682694064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_19.coverage" NAME="6.19 Coverage Results" MODIFIED="1759659054043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_23563_2_.coverage" NAME="17_23563(2) Coverage Results" MODIFIED="1760262482903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_23266_2_.coverage" NAME="7_23266(2) Coverage Results" MODIFIED="1762071349693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_9.coverage" NAME="6.9 Coverage Results" MODIFIED="1759655013499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_1.coverage" NAME="7.1 Coverage Results" MODIFIED="1759661535756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_6.coverage" NAME="6.6 Coverage Results" MODIFIED="1760010426009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_16261_25_.coverage" NAME="14_16261(25) Coverage Results" MODIFIED="1761469653134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_18484_18_.coverage" NAME="8_18484(18) Coverage Results" MODIFIED="1762679704949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$11_19877_8_.coverage" NAME="11_19877(8) Coverage Results" MODIFIED="1762685728712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_11" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_7.coverage" NAME="4.7 Coverage Results" MODIFIED="1759049637209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$3_9.coverage" NAME="3.9 Coverage Results" MODIFIED="1759047314945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_13.coverage" NAME="6.13 Coverage Results" MODIFIED="1759657266828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_20284_26_.coverage" NAME="14_20284(26) Coverage Results" MODIFIED="1761470315635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_29.coverage" NAME="6.29 Coverage Results" MODIFIED="1759660314780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_14344_29_.coverage" NAME="14_14344(29) Coverage Results" MODIFIED="1761471675369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_13.coverage" NAME="7.13 Coverage Results" MODIFIED="1760258983480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$main.coverage" NAME="main Coverage Results" MODIFIED="1764127068318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_20804_9_.coverage" NAME="7_20804(9) Coverage Results" MODIFIED="1762072525742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_23757_1_.coverage" NAME="17-23757(1) Coverage Results" MODIFIED="1760260644846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_21903_6_.coverage" NAME="17_21903(6) Coverage Results" MODIFIED="1761466145703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_11.coverage" NAME="7.11 Coverage Results" MODIFIED="1760258926691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_20857_16_.coverage" NAME="8_20857(16) Coverage Results" MODIFIED="1762679161512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_4.coverage" NAME="6.4 Coverage Results" MODIFIED="1760010338463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_21900_8_.coverage" NAME="14_21900(8) Coverage Results" MODIFIED="1761450549926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_9.coverage" NAME="5.9 Coverage Results" MODIFIED="1759054701991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_4_2_variant_.coverage" NAME="7.4(2 variant) Coverage Results" MODIFIED="1760256508582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_16.coverage" NAME="6.16 Coverage Results" MODIFIED="1760256040738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_9.coverage" NAME="7.9 Coverage Results" MODIFIED="1760258786000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1759053513371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_21413_18_.coverage" NAME="14_21413(18) Coverage Results" MODIFIED="1761469055821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$3_7.coverage" NAME="3.7 Coverage Results" MODIFIED="1759047103592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_23757_1_.coverage" NAME="17-23757(1) Coverage Results" MODIFIED="1760260644846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_6.coverage" NAME="6.6 Coverage Results" MODIFIED="1760010426009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/HM/october(2025y)/homework(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_17.coverage" NAME="6.17 Coverage Results" MODIFIED="1759658294094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$3_9.coverage" NAME="3.9 Coverage Results" MODIFIED="1759047314945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$main.coverage" NAME="main Coverage Results" MODIFIED="1776715867268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1759653356301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_23746_1_.coverage" NAME="8_23746(1) Coverage Results" MODIFIED="1762313926807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_1.coverage" NAME="7.1 Coverage Results" MODIFIED="1759661535756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_20960_11_.coverage" NAME="14_20960(11) Coverage Results" MODIFIED="1761468104094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_17873_14_.coverage" NAME="17_17873(14) Coverage Results" MODIFIED="1762670506896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_23.coverage" NAME="6.23 Coverage Results" MODIFIED="1759659487649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$14_23560_6_.coverage" NAME="14_23560(6) Coverage Results" MODIFIED="1761449906504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_20953_8_.coverage" NAME="7_20953(8) Coverage Results" MODIFIED="1762072139030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_13080_30_.coverage" NAME="7_13080(30) Coverage Results" MODIFIED="1762678114078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$14_19705_13_.coverage" NAME="14_19705(13) Coverage Results" MODIFIED="1762065492527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1759046550617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/homework(210925)" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$sdkjfs.coverage" NAME="sdkjfs Coverage Results" MODIFIED="1776711236729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_23276_4_.coverage" NAME="17_23276(4) Coverage Results" MODIFIED="1760263285770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_1.coverage" NAME="4.1 Coverage Results" MODIFIED="1759048465072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1759052852934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_18484_18_.coverage" NAME="8_18484(18) Coverage Results" MODIFIED="1762679704949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$7_18309_26_.coverage" NAME="7_18309(26) Coverage Results" MODIFIED="1762078652172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_19556_25_.coverage" NAME="7_19556(25) Coverage Results" MODIFIED="1762677225081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_11.coverage" NAME="4.11 Coverage Results" MODIFIED="1759050510266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_11.coverage" NAME="6.11 Coverage Results" MODIFIED="1759655353784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_11.coverage" NAME="5.11 Coverage Results" MODIFIED="1759055984310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$4_15.coverage" NAME="4.15 Coverage Results" MODIFIED="1759051180251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$8_19240_7_.coverage" NAME="8_19240(7) Coverage Results" MODIFIED="1762669895329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_18582_11_.coverage" NAME="17_18582(11) Coverage Results" MODIFIED="1762035266128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$17_18045_13_.coverage" NAME="17_18045(13) Coverage Results" MODIFIED="1762670393687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$7_16373_14_.coverage" NAME="7_16373(14) Coverage Results" MODIFIED="1762073022486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_21.coverage" NAME="6.21 Coverage Results" MODIFIED="1759659307589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_15.coverage" NAME="5.15 Coverage Results" MODIFIED="1759057079960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_15.coverage" NAME="6.15 Coverage Results" MODIFIED="1759657996943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1759652807922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
   </component>
 </project>
