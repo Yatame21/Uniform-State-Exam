@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a07308a-505a-4d8f-9ca3-98e6e8126e5a" name="Changes" comment="s dashei">
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_5/dasha_5num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds/eighttgh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds/fifth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds/firstatt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds/fortth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds/secob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds/sixth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds/thirdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds/ыумутер.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE/PythonCourse/HM/ds/n(5)/n(5)_1.py" afterDir="false" />
+    <list default="true" id="2a07308a-505a-4d8f-9ca3-98e6e8126e5a" name="Changes" comment="save">
+      <change afterPath="$PROJECT_DIR$/EGE/PythonCourse/HM/ds/n(5)/n(5)_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/PythonCourse/HM/ds/n(5)/n(5)_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGE/PythonCourse/HM/ds/n(5)/n(5)_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EGE/EgeNumbers/num_2/do(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_2/do(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/fe.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_5/fe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/numeration(5).py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE/EgeNumbers/num_5/numeration(5).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,152 +48,154 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.11_19360(9).executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_19877(8).executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_21897(4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.11_23270(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_14344(29).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_16261(25).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_18265(28).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_18580(22).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_19484(4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_19705(13).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_20284(26).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_20960(11).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_21413(18).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_21900(8).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_23198(7).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_23560(6).executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_23753(16).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17-23757(1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_17558(16).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_17750(15).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_17873(14).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_18045(13).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_18582(11).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_18582.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_19249(10).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_20963(9).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_21416(8).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_21712(7).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_21903(6).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_23276(4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_23563(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.27.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.4(2 variant).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_13080(30).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_16373(14).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_17670(12).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_17747(28).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_18309(26).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_18601(5).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_19368(4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_19556(25).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_20482(22).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_20804(9).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_20953(8).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_21702(6).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_22346(31).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_23191(3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_23266(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_23745(21).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_17549(11).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_18120(9).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_18484(18).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_19240(7).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_20857(16).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_20898(24).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_21703(5).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_21894(22).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_23367(21).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_23554(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_23746(1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.arithmetic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.do(192021).executor&quot;: &quot;Run&quot;,
-    &quot;Python.do(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.do(7).executor&quot;: &quot;Run&quot;,
-    &quot;Python.eighttgh.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example(192021).executor&quot;: &quot;Run&quot;,
-    &quot;Python.fe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fifth.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fortth.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.n(5)_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prosto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sdkjfs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.secob.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sep_end.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sixth.executor&quot;: &quot;Run&quot;,
-    &quot;Python.thirdf.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ыумутер.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/piton/Uniform-State-Exam&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.11_19360(9).executor": "Run",
+    "Python.11_19877(8).executor": "Run",
+    "Python.11_21897(4).executor": "Run",
+    "Python.11_23270(2).executor": "Run",
+    "Python.14_14344(29).executor": "Run",
+    "Python.14_16261(25).executor": "Run",
+    "Python.14_18265(28).executor": "Run",
+    "Python.14_18580(22).executor": "Run",
+    "Python.14_19484(4).executor": "Run",
+    "Python.14_19705(13).executor": "Run",
+    "Python.14_20284(26).executor": "Run",
+    "Python.14_20960(11).executor": "Run",
+    "Python.14_21413(18).executor": "Run",
+    "Python.14_21900(8).executor": "Run",
+    "Python.14_23198(7).executor": "Run",
+    "Python.14_23560(6).executor": "Run",
+    "Python.14_23753(16).executor": "Run",
+    "Python.17-23757(1).executor": "Run",
+    "Python.17_17558(16).executor": "Run",
+    "Python.17_17750(15).executor": "Run",
+    "Python.17_17873(14).executor": "Run",
+    "Python.17_18045(13).executor": "Run",
+    "Python.17_18582(11).executor": "Run",
+    "Python.17_18582.executor": "Run",
+    "Python.17_19249(10).executor": "Run",
+    "Python.17_20963(9).executor": "Run",
+    "Python.17_21416(8).executor": "Run",
+    "Python.17_21712(7).executor": "Run",
+    "Python.17_21903(6).executor": "Run",
+    "Python.17_23276(4).executor": "Run",
+    "Python.17_23563(2).executor": "Run",
+    "Python.3.6.executor": "Run",
+    "Python.3.7.executor": "Run",
+    "Python.3.9.executor": "Run",
+    "Python.4.1.executor": "Run",
+    "Python.4.11.executor": "Run",
+    "Python.4.13.executor": "Run",
+    "Python.4.15.executor": "Run",
+    "Python.4.3.executor": "Run",
+    "Python.4.5.executor": "Run",
+    "Python.4.7.executor": "Run",
+    "Python.4.9.executor": "Run",
+    "Python.5.1.executor": "Run",
+    "Python.5.11.executor": "Run",
+    "Python.5.13.executor": "Run",
+    "Python.5.14.executor": "Run",
+    "Python.5.15.executor": "Run",
+    "Python.5.3.executor": "Run",
+    "Python.5.5.executor": "Run",
+    "Python.5.7.executor": "Run",
+    "Python.5.9.executor": "Run",
+    "Python.6.1.executor": "Run",
+    "Python.6.10.executor": "Run",
+    "Python.6.11.executor": "Run",
+    "Python.6.13.executor": "Run",
+    "Python.6.14.executor": "Run",
+    "Python.6.15.executor": "Run",
+    "Python.6.16.executor": "Run",
+    "Python.6.17.executor": "Run",
+    "Python.6.19.executor": "Run",
+    "Python.6.2.executor": "Run",
+    "Python.6.21.executor": "Run",
+    "Python.6.23.executor": "Run",
+    "Python.6.25.executor": "Run",
+    "Python.6.27.executor": "Run",
+    "Python.6.29.executor": "Run",
+    "Python.6.3.executor": "Run",
+    "Python.6.4.executor": "Run",
+    "Python.6.5.executor": "Run",
+    "Python.6.6.executor": "Run",
+    "Python.6.7.executor": "Run",
+    "Python.6.8.executor": "Run",
+    "Python.6.9.executor": "Run",
+    "Python.7.1.executor": "Run",
+    "Python.7.11.executor": "Run",
+    "Python.7.13.executor": "Run",
+    "Python.7.3.executor": "Run",
+    "Python.7.4(2 variant).executor": "Run",
+    "Python.7.5.executor": "Run",
+    "Python.7.7.executor": "Run",
+    "Python.7.9.executor": "Run",
+    "Python.7_13080(30).executor": "Run",
+    "Python.7_16373(14).executor": "Run",
+    "Python.7_17670(12).executor": "Run",
+    "Python.7_17747(28).executor": "Run",
+    "Python.7_18309(26).executor": "Run",
+    "Python.7_18601(5).executor": "Run",
+    "Python.7_19368(4).executor": "Run",
+    "Python.7_19556(25).executor": "Run",
+    "Python.7_20482(22).executor": "Run",
+    "Python.7_20804(9).executor": "Run",
+    "Python.7_20953(8).executor": "Run",
+    "Python.7_21702(6).executor": "Run",
+    "Python.7_22346(31).executor": "Run",
+    "Python.7_23191(3).executor": "Run",
+    "Python.7_23266(2).executor": "Run",
+    "Python.7_23745(21).executor": "Run",
+    "Python.8_17549(11).executor": "Run",
+    "Python.8_18120(9).executor": "Run",
+    "Python.8_18484(18).executor": "Run",
+    "Python.8_19240(7).executor": "Run",
+    "Python.8_20857(16).executor": "Run",
+    "Python.8_20898(24).executor": "Run",
+    "Python.8_21703(5).executor": "Run",
+    "Python.8_21894(22).executor": "Run",
+    "Python.8_23367(21).executor": "Run",
+    "Python.8_23554(2).executor": "Run",
+    "Python.8_23746(1).executor": "Run",
+    "Python.arithmetic.executor": "Run",
+    "Python.do(192021).executor": "Run",
+    "Python.do(2).executor": "Run",
+    "Python.do(7).executor": "Run",
+    "Python.eighttgh.executor": "Run",
+    "Python.example(192021).executor": "Run",
+    "Python.fe.executor": "Run",
+    "Python.fifth.executor": "Run",
+    "Python.fortth.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.n(5)_1.executor": "Run",
+    "Python.n(5)_2.executor": "Run",
+    "Python.n(5)_3.executor": "Run",
+    "Python.prosto.executor": "Run",
+    "Python.sdkjfs.executor": "Run",
+    "Python.secob.executor": "Run",
+    "Python.sep_end.executor": "Run",
+    "Python.sixth.executor": "Run",
+    "Python.thirdf.executor": "Run",
+    "Python.ыумутер.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/piton/Uniform-State-Exam",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\piton\Uniform-State-Exam\EGE\EgeNumbers\num_8\ds" />
@@ -271,6 +262,8 @@
       <workItem from="1776938236343" duration="4543000" />
       <workItem from="1776962329911" duration="8268000" />
       <workItem from="1776977507566" duration="3788000" />
+      <workItem from="1777464695743" duration="32000" />
+      <workItem from="1777484864551" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="s dashei">
       <option name="closed" value="true" />
@@ -280,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776715912048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="save">
+      <option name="closed" value="true" />
+      <created>1777464716476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777464716476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,33 +289,36 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="s dashei" />
-    <option name="LAST_COMMIT_MESSAGE" value="s dashei" />
+    <MESSAGE value="save" />
+    <option name="LAST_COMMIT_MESSAGE" value="save" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/EGE_TRAINING$8_20857_16_.coverage" NAME="8_20857(16) Coverage Results" MODIFIED="1762679161512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$14_14344_29_.coverage" NAME="14_14344(29) Coverage Results" MODIFIED="1761471675369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$4_13.coverage" NAME="4.13 Coverage Results" MODIFIED="1759050669226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$n_5__3.coverage" NAME="n(5)_3 Coverage Results" MODIFIED="1777485487766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/PythonCourse/HM/ds/n(5)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$14_21900_8_.coverage" NAME="14_21900(8) Coverage Results" MODIFIED="1761450549926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_13.coverage" NAME="5.13 Coverage Results" MODIFIED="1759056793060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$7_13.coverage" NAME="7.13 Coverage Results" MODIFIED="1760258983480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_13.coverage" NAME="5.13 Coverage Results" MODIFIED="1759056793060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$8_23554_2_.coverage" NAME="8_23554(2) Coverage Results" MODIFIED="1762080819643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$6_13.coverage" NAME="6.13 Coverage Results" MODIFIED="1759657266828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$7_19556_25_.coverage" NAME="7_19556(25) Coverage Results" MODIFIED="1762677225081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$17_19249_10_.coverage" NAME="17_19249(10) Coverage Results" MODIFIED="1762034172770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$8_21894_22_.coverage" NAME="8_21894(22) Coverage Results" MODIFIED="1762681695384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8" />
-    <SUITE FILE_PATH="coverage/Uniform_State_Exam$do_7_.coverage" NAME="do(7) Coverage Results" MODIFIED="1775222341725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$6_19.coverage" NAME="6.19 Coverage Results" MODIFIED="1759659054043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$do_7_.coverage" NAME="do(7) Coverage Results" MODIFIED="1775222341725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$17_17558_16_.coverage" NAME="17_17558(16) Coverage Results" MODIFIED="1762670827351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$17_21416_8_.coverage" NAME="17_21416(8) Coverage Results" MODIFIED="1762033187105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$6_5.coverage" NAME="6.5 Coverage Results" MODIFIED="1759654079653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
     <SUITE FILE_PATH="coverage/Uniform_State_Exam$fe.coverage" NAME="fe Coverage Results" MODIFIED="1776712648985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/Uniform_State_Exam$fortth.coverage" NAME="fortth Coverage Results" MODIFIED="1776965653610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_8/ds" />
-    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_7.coverage" NAME="5.7 Coverage Results" MODIFIED="1759054480495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1759661970501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(051025)" />
+    <SUITE FILE_PATH="coverage/EGE_TRAINING$5_7.coverage" NAME="5.7 Coverage Results" MODIFIED="1759054480495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$7_19368_4_.coverage" NAME="7_19368(4) Coverage Results" MODIFIED="1761476414029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_7" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$4_9.coverage" NAME="4.9 Coverage Results" MODIFIED="1759050284095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$17_18582.coverage" NAME="17_18582 Coverage Results" MODIFIED="1762034404504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_17" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$14_20284_26_.coverage" NAME="14_20284(26) Coverage Results" MODIFIED="1761470315635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/EgeNumbers/num_14" />
+    <SUITE FILE_PATH="coverage/Uniform_State_Exam$n_5__2.coverage" NAME="n(5)_2 Coverage Results" MODIFIED="1777485128224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/PythonCourse/HM/ds/n(5)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$7_9.coverage" NAME="7.9 Coverage Results" MODIFIED="1760258786000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/october(2025y)/les(121025)" />
     <SUITE FILE_PATH="coverage/EGE_TRAINING$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1759048859372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EGE/Lessons/les(280925)" />
     <SUITE FILE_PATH="coverage/Uniform_State_Exam$sep_end.coverage" NAME="sep_end Coverage Results" MODIFIED="1776618130661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course_step/input_output" />
