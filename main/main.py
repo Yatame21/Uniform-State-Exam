@@ -1,12 +1,19 @@
-res=[]
-for n in range(1,10000):
-    r=bin(n)[2:]
-    if n % 2==0:
-        r='10'+r
-    else:
-        r= '1'+ r+'01'
-    r = int(r,2)
-    if n <=12:
-        res.append(r)
-print(max(res))
-#https://education.yandex.ru/ege/inf/task/6e679e3e-d6c0-4c26-9e5e-d6b89730c238
+d = 10 ** 9 + 7
+
+def md(base, exp, mod):
+    result = 1
+    base %= mod
+    while exp > 0:
+        if exp & 1:
+            result = (result * base) % mod
+        base = (base * base) % mod
+        exp >>= 1
+    return result
+
+def cfc(n, m):
+    if m == 1:
+        return 0
+    ans = m * md(m - 1, 2 * n - 1, d)
+    return ans % d
+n, m = map(int, input().split())
+print(cfc(n, m))
